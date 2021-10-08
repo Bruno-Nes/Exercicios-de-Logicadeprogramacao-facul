@@ -1,0 +1,6 @@
+C:\Users\joelc\source\repos\listadeexercicio\exercicionove\bin\Debug\exercicionove.exe.config
+C:\Users\joelc\source\repos\listadeexercicio\exercicionove\bin\Debug\exercicionove.exe
+C:\Users\joelc\source\repos\listadeexercicio\exercicionove\bin\Debug\exercicionove.pdb
+C:\Users\joelc\source\repos\listadeexercicio\exercicionove\obj\Debug\exercicionove.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\listadeexercicio\exercicionove\obj\Debug\exercicionove.exe
+C:\Users\joelc\source\repos\listadeexercicio\exercicionove\obj\Debug\exercicionove.pdb

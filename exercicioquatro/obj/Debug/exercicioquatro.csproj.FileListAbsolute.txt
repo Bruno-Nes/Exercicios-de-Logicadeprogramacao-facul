@@ -1,0 +1,7 @@
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatro\bin\Debug\exercicioquatro.exe.config
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatro\bin\Debug\exercicioquatro.exe
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatro\bin\Debug\exercicioquatro.pdb
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatro\obj\Debug\exercicioquatro.csproj.AssemblyReference.cache
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatro\obj\Debug\exercicioquatro.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatro\obj\Debug\exercicioquatro.exe
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatro\obj\Debug\exercicioquatro.pdb

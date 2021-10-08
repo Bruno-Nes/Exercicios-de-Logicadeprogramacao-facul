@@ -1,0 +1,7 @@
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotres\bin\Debug\exerciciotres.exe.config
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotres\bin\Debug\exerciciotres.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotres\bin\Debug\exerciciotres.pdb
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotres\obj\Debug\exerciciotres.csproj.AssemblyReference.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotres\obj\Debug\exerciciotres.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotres\obj\Debug\exerciciotres.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotres\obj\Debug\exerciciotres.pdb

@@ -1,0 +1,7 @@
+C:\Users\joelc\source\repos\listadeexercicio\exerciciocinco\bin\Debug\exerciciocinco.exe.config
+C:\Users\joelc\source\repos\listadeexercicio\exerciciocinco\bin\Debug\exerciciocinco.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciocinco\bin\Debug\exerciciocinco.pdb
+C:\Users\joelc\source\repos\listadeexercicio\exerciciocinco\obj\Debug\exerciciocinco.csproj.AssemblyReference.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciocinco\obj\Debug\exerciciocinco.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciocinco\obj\Debug\exerciciocinco.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciocinco\obj\Debug\exerciciocinco.pdb
