@@ -1,0 +1,7 @@
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteetres\bin\Debug\exerciciovinteetres.exe.config
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteetres\bin\Debug\exerciciovinteetres.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteetres\bin\Debug\exerciciovinteetres.pdb
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteetres\obj\Debug\exerciciovinteetres.csproj.AssemblyReference.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteetres\obj\Debug\exerciciovinteetres.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteetres\obj\Debug\exerciciovinteetres.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteetres\obj\Debug\exerciciovinteetres.pdb

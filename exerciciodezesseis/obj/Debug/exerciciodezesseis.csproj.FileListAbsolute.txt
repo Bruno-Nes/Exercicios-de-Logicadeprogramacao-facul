@@ -1,0 +1,7 @@
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezesseis\bin\Debug\exerciciodezesseis.exe.config
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezesseis\bin\Debug\exerciciodezesseis.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezesseis\bin\Debug\exerciciodezesseis.pdb
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezesseis\obj\Debug\exerciciodezesseis.csproj.AssemblyReference.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezesseis\obj\Debug\exerciciodezesseis.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezesseis\obj\Debug\exerciciodezesseis.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezesseis\obj\Debug\exerciciodezesseis.pdb

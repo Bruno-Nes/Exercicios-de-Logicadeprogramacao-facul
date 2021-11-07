@@ -1,0 +1,7 @@
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquinze\bin\Debug\exercicioquinze.exe.config
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquinze\bin\Debug\exercicioquinze.exe
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquinze\bin\Debug\exercicioquinze.pdb
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquinze\obj\Debug\exercicioquinze.csproj.AssemblyReference.cache
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquinze\obj\Debug\exercicioquinze.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquinze\obj\Debug\exercicioquinze.exe
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquinze\obj\Debug\exercicioquinze.pdb

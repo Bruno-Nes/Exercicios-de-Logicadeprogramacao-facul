@@ -1,0 +1,7 @@
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinte\bin\Debug\exerciciovinte.exe.config
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinte\bin\Debug\exerciciovinte.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinte\bin\Debug\exerciciovinte.pdb
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinte\obj\Debug\exerciciovinte.csproj.AssemblyReference.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinte\obj\Debug\exerciciovinte.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinte\obj\Debug\exerciciovinte.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinte\obj\Debug\exerciciovinte.pdb

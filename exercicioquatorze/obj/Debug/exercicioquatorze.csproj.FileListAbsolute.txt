@@ -1,0 +1,7 @@
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatorze\bin\Debug\exercicioquatorze.exe.config
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatorze\bin\Debug\exercicioquatorze.exe
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatorze\bin\Debug\exercicioquatorze.pdb
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatorze\obj\Debug\exercicioquatorze.csproj.AssemblyReference.cache
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatorze\obj\Debug\exercicioquatorze.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatorze\obj\Debug\exercicioquatorze.exe
+C:\Users\joelc\source\repos\listadeexercicio\exercicioquatorze\obj\Debug\exercicioquatorze.pdb

@@ -1,0 +1,6 @@
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteecinco\obj\Debug\exerciciovinteecinco.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteecinco\bin\Debug\exerciciovinteecinco.exe.config
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteecinco\bin\Debug\exerciciovinteecinco.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteecinco\bin\Debug\exerciciovinteecinco.pdb
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteecinco\obj\Debug\exerciciovinteecinco.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteecinco\obj\Debug\exerciciovinteecinco.pdb

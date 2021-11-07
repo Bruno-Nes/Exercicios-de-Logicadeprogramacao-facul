@@ -1,0 +1,7 @@
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteum\bin\Debug\exerciciovinteum.exe.config
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteum\bin\Debug\exerciciovinteum.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteum\bin\Debug\exerciciovinteum.pdb
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteum\obj\Debug\exerciciovinteum.csproj.AssemblyReference.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteum\obj\Debug\exerciciovinteum.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteum\obj\Debug\exerciciovinteum.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciovinteum\obj\Debug\exerciciovinteum.pdb

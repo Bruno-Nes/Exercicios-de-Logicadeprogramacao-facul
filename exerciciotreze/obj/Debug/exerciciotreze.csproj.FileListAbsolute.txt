@@ -1,0 +1,7 @@
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotreze\bin\Debug\exerciciotreze.exe.config
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotreze\bin\Debug\exerciciotreze.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotreze\bin\Debug\exerciciotreze.pdb
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotreze\obj\Debug\exerciciotreze.csproj.AssemblyReference.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotreze\obj\Debug\exerciciotreze.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotreze\obj\Debug\exerciciotreze.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciotreze\obj\Debug\exerciciotreze.pdb

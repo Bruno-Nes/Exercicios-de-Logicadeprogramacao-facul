@@ -1,0 +1,7 @@
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezenove\bin\Debug\exerciciodezenove.exe.config
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezenove\bin\Debug\exerciciodezenove.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezenove\bin\Debug\exerciciodezenove.pdb
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezenove\obj\Debug\exerciciodezenove.csproj.AssemblyReference.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezenove\obj\Debug\exerciciodezenove.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezenove\obj\Debug\exerciciodezenove.exe
+C:\Users\joelc\source\repos\listadeexercicio\exerciciodezenove\obj\Debug\exerciciodezenove.pdb
